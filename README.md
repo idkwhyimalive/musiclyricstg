@@ -33,4 +33,4 @@ Music Lyrics TGBot поширюється під ліцензією MIT
 * Зв'язок з розробником - [whyimalive](https://t.me/idkwhyimalive)
 * Якщо є питання або пропозиції, зв'яжіться з нами електронною поштою: ```mortyezgg@gmail.com```
 
-<img src="ava.jpg" alt="ava" width="200"/>
+<img src="ava.jpg" alt="ava" width="100"/>
